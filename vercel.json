@@ -1,10 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/verify-bundle.py": {
-      "runtime": "python3.12"
-    }
-  },
   "routes": [
     {
       "src": "/verify-bundle",
